@@ -1,0 +1,4 @@
+#!/bin/bash
+#commit #1
+#commit #2
+error: pathspec 'touch test.sh file' did not match any file(s) known to git
